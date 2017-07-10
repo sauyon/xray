@@ -1,8 +1,11 @@
 {
-	"apktoolpath":"/home/reunns/SOCIAM-XRay/automapp/LibRadar/tool/apktool.jar",
-        "appsdir-test":"/home/emax/xray/static/apps",
-        "appsdir-main":"/home/reunns/www2017-apps",
-        "appsdir":"/tmp/missing-apps",
-    "tmpdir-fast":"/mnt/ramdisk/apps",
-    	"tmpdir":"/robo1/tmp"
+	// apk tool jar path
+	"apktoolpath":"./apktool.jar",
+	// point to apks
+	"appsdir-test":"/home/emax/xray/static/apps",
+	"appsdir-main":"/home/reunns/www2017-apps",
+	"appsdir":"/tmp/missing-apps",
+	// temp dirs
+	"tmpdir-fast":"/mnt/ramdisk/apps",
+	"tmpdir":"/robo1/tmp"
 }
